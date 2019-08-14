@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Itfosters_Pallcurrencys</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Paypal standard support the all the currency with INR</summary>
+    <description>Paypal standard support the all the currency with INR</description>
+    <notes>Paypal standard support the all the currency with INR</notes>
+    <authors><author><name>Raj kumar</name><user>Raj</user><email>rajwebsoft@gmail.com</email></author></authors>
+    <date>2016-07-28</date>
+    <time>11:23:24</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Itfosters_Pallcurrencys.xml" hash="b0c6f8fabf5c4b51379f892244d95c24"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

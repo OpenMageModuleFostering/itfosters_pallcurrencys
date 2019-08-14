@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Itfosters_Pallcurrencys",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Paypal standard support the all the currency with INR",
+    "authors": [
+    {
+        "name": "Raj kumar",
+        "email": "rajwebsoft@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
