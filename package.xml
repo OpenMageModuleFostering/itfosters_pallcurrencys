@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package>
     <name>Itfosters_Pallcurrencys</name>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <stability>stable</stability>
     <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
     <channel>community</channel>
     <extends/>
-    <summary>Paypal standard support the all the currency with INR</summary>
-    <description>Paypal standard support the all the currency with INR</description>
-    <notes>Paypal standard support the all the currency with INR</notes>
-    <authors><author><name>Raj kumar</name><user>Raj</user><email>rajwebsoft@gmail.com</email></author></authors>
-    <date>2016-07-28</date>
-    <time>11:23:24</time>
-    <contents><target name="mageetc"><dir name="modules"><file name="Itfosters_Pallcurrencys.xml" hash="b0c6f8fabf5c4b51379f892244d95c24"/></dir></target></contents>
+    <summary>All the currency is not supported by the paypal then use the unsported currency in this exenstion</summary>
+    <description>All the currency is not supported by the paypal then use the unsported currency in this exenstion</description>
+    <notes>All the currency is not supported by the paypal then use the unsported currency in this exenstion</notes>
+    <authors><author><name>Raj kumar</name><user>rajwebsoft</user><email>rajwebsoft@gmail.com</email></author></authors>
+    <date>2016-09-11</date>
+    <time>11:52:15</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Itfosters_Pallcurrencys.xml" hash="7713be147d87a64688d5f4c3cb045162"/></dir></target><target name="magelocal"><dir name="Itfosters"><dir name="Pallcurrencys"><dir name="Block"><dir name="Checkout"><dir name="Cart"><file name="Totals.php" hash="18062b9facbef7fa0b5ab03e663a88af"/></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="7b98e264470a78002d7cae8f0f93cb48"/></dir><dir name="Model"><file name="Cart.php" hash="87fcb53b8fc2bfb361db856112eef581"/><file name="Config.php" hash="744763f3e2e117a4a24d4faf473ad0a1"/><dir name="Express"><file name="Checkout.php" hash="b3397a2dfa9f7a5926f54d3f013b8559"/></dir><file name="Express.php" hash="a03cd8db99ebe8786272558ff584bc4d"/><file name="Observer.php" hash="30dd037b72690401685c4d18998a6b3e"/><file name="Payment.php" hash="1f3a1dd6f76e050dfac727a08a0cb6e0"/><dir name="Source"><file name="Currency.php" hash="590646fe8397f90809ea6be8cbee185d"/></dir><file name="Standard.php" hash="9d5d8a30b6bed3fd2214d5194d940fe4"/></dir><dir name="etc"><file name="config.xml" hash="5af6e96e02efc2dec5688a6cd03f5546"/><file name="system.xml" hash="b883645bdb51d7c6ba3dd54d7d1dd727"/></dir><dir name="sql"><dir name="itfosters_pallcurrencys_setup"><file name="mysql4-install-0.1.0.php" hash="69e5c1cee8fa980eede6d37d9d4b4ab4"/></dir><file name=".DS_Store" hash="a4ebc0f8acd6d4c0c1fff6099a92599e"/></dir><file name=".DS_Store" hash="e7cd9bd9195ab59c9bdeb45c59eade58"/></dir></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
 </package>

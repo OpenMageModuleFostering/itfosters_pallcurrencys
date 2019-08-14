@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
-    "description": "Paypal standard support the all the currency with INR",
+    "description": "All the currency is not supported by the paypal then use the unsported currency in this exenstion",
     "authors": [
     {
         "name": "Raj kumar",

@@ -3,7 +3,7 @@
     <modules>
         <Itfosters_Pallcurrencys>
             <active>true</active>
-            <codePool>community</codePool>
+            <codePool>local</codePool>
             <depends>
                 <Mage_Paypal/>
             </depends>
