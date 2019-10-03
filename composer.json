@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Itfosters_Pallcurrencys",
+    "name": "openmage-module-fostering\/itfosters_pallcurrencys",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "All the currency is not supported by the paypal then use the unsported currency in this exenstion",
     "authors": [
