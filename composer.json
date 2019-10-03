@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Itfosters_Pallcurrencys",
+    "name": "OpenMageModuleFostering\/Itfosters_Pallcurrencys",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "All the currency is not supported by the paypal then use the unsported currency in this exenstion",
     "authors": [
-    {
-        "name": "Raj kumar",
-        "email": "rajwebsoft@gmail.com"
-    }
-],
+        {
+            "name": "Raj kumar",
+            "email": "rajwebsoft@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
